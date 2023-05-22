@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(44, 40, 40);
+   margin: 0px;
+  font-family: 'Poppins', sans-serif;
+    }
+
+
+
+
+#Welcome-One{
+  
+    text-align: center;
+    color: rgb(79, 160, 211);
+}
+#Introduction-One{
+    color: lightskyblue;
+    text-align: center;
+}
+#Detail-One{
+
+    color: lightskyblue;
+    font-weight: 800;
+    text-align: center;
+}
+#Link{
+    text-align: center;
+    margin: 100px;
+   
+}
+
+
+.button{
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3498db;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    width: 120px;
+    text-decoration: none;
+    margin: 5px;
+    background-image: linear-gradient(120deg, #3498db, #80005a);
+  }
+.button:hover{
+    background-image: linear-gradient(120deg, blue, purple); 
+}
+ 
+
+#List-One{
+    font-weight: 700;
+color: black;
+background-color: lightgreen;
+border: 2px solid purple;
+border-radius: 5px;
+margin: 5% 40% 5% 40%;
+padding: 1% 3%;
+text-align: center;
+
+}
+#Form-One{
+
+margin-left: 1%;
+
+}
+
+
+#Blog-Part-One{
+    display: inline-block;
+    margin: 1% 1% 1% 1.9%;
+    background-color: darkmagenta;
+    padding: 1%;
+    border-radius: 10px;
+    color: #ffffff;
+    width: 45%;
+
+}
+
+#Blog-Part-Two{
+    display: inline-block;
+    margin: 1% 1.5% 1% 1%;
+    background-color: darkmagenta;
+    padding: 1%;
+    border-radius: 10px;
+    color: #ffffff;
+    width: 45%;
+    
+    }
+
