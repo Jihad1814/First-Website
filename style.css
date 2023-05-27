@@ -68,8 +68,8 @@ margin-left: 1%;
 
 
 #Blog-Part-One{
-    display: inline-block;
-    margin: 1% 1% 1% 1.9%;
+   
+    margin: 1% 1% 1% 1.8%;
     background-color: darkmagenta;
     padding: 1%;
     border-radius: 10px;
@@ -79,13 +79,16 @@ margin-left: 1%;
 }
 
 #Blog-Part-Two{
-    display: inline-block;
-    margin: 1% 1.5% 1% 1%;
+   
+    margin: 1% 1% 1% 1%;
     background-color: darkmagenta;
     padding: 1%;
     border-radius: 10px;
     color: #ffffff;
     width: 45%;
     
+    }
+    #Blog-One{
+        display: flex;
     }
 
